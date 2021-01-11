@@ -8,5 +8,5 @@ app.get('/health', (_req, res) => {
 
 app.listen(5000, () => {
   // eslint-disable-next-line no-console
-  console.log('Server running on http://localhost:5000');
+  console.log('server running on http://localhost:5000');
 });
